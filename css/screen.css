@@ -40,7 +40,11 @@ nav li:first-of-type {
   margin-left: 0;
 }
 
-aside, #nd-nav {
+aside {
+  display: none;
+}
+
+#nd-nav {
   display: none;
 }
 
